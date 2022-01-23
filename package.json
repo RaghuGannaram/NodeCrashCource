@@ -1,0 +1,22 @@
+{
+  "name": "nodecrashcource",
+  "version": "1.0.0",
+  "description": "It is a go to refresher for understanding the basic libraries of node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaghuGannaram/NodeCrashCource.git"
+  },
+  "author": "Raghu Gannaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaghuGannaram/NodeCrashCource/issues"
+  },
+  "homepage": "https://github.com/RaghuGannaram/NodeCrashCource#readme",
+  "dependencies": {
+    "aryabhatta": "^1.0.0"
+  }
+}
