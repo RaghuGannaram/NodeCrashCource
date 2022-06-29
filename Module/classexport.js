@@ -13,6 +13,6 @@
 
 const name = "John";
 
-// module.exports = name;
-module.exports.person = name;
+module.exports = name;
+// module.exports.person = name;
 // export default name;
